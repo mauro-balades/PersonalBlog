@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "Welcome to my blog!"
-date:   2022-02-13 18:36:17 +0000
-categories: jekyll update
 ---
 
 You may be asking yourself "why am I here?" or "whats this all about?".
