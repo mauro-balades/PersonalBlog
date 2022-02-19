@@ -1,0 +1,19 @@
+---
+title: My thoughts on social media
+---
+
+# A little backstory
+Towards the start of 2021, I decided to take a break from social media. It did take me a while to realise what I was doing since I have never **wanted** to delete my social media before. One of the main things that stopped me from doing was primarily my contact with some family members that lived outside of the UK and also the ability to send and receive funny things from some of my closest friends. It was a decision that bounced between "do it" and "don't do it", purely because at that time I was posting all my photography stuff and it would have been a shame to have to repost it because people probably wouldn't be that interested if I was to post it again on another account but anyway.
+
+# My thoughts
+Don't get me wrong, social media is a really cool thing and I quite honestly think its great that it allows people to show some of the things or places that they have been to or are good at doing. I thought it is an awesome platform to be able to show some of the places I have been and some of the photos that I have been taking at the time because nobody wants to send the same image to loads of people when they can just post it and have it be there, just there, forever (kinda).
+
+**Yes, there is a "but" coming. And it's a big one.**
+
+But, after having no social media for a few months it made me realise quite a few things that I don't think you realise when your in the depths of using it and looking at it on a nearly daily basis. When people get stuck in using it constantly, they can start to lose touch with reality and not appreciate some of the minor things that are physically around them rather than on a screen with an image and text that was just extracted from a database with a database query. Now that I write in such a bleak way, it makes me think about how *fake* social media is and I will let you read it again because its like defining the contrast between reality and a reality that does not actually exist but we use it on a daily basis. Reality is the moment that we all live in right now while the things that we see on social media is something that it going to float around the internet forever and is only a query to a database and a few algorithms that put that content on your feed.
+
+There is no real interaction on social media either. You might like someone's post or comment on their post but let's face it, what does that mean to anyone anyway? What if your liking a post on an account that is no longer used? Who takes what happens on social media personally? Having lots of likes is nice and it makes people **happy**. But, what requires more effort and care; Double tapping on an image or flying/driving to somewhere to meet up with someone and get a coffee. The second option right? Since it requires you to get off your a** and meet up with someone while double tapping on a image from your sofa in your front room requires the least effort.
+
+You noticed how I put **happy** in caps? Well, lets remember, people really like when they have hundreds or thousands of likes on their post. You know when people are happy, the human body releases a chemical also known as the happy chemical that makes us feel that way. Well, lets put it in the nicest way possible - social media is basically just a platform that farms and consumes everyone by carefully designing their platforms in a way that makes up happy. When we are happy, we want to keep being happy, right? So we just keep using the same thing that is making us happy. That's all *sunshine and rainbows* until you take a few steps back and realise what is making you happy is this application that has been programmed to do a database query to show you some content that is found on a table that is stored on a computer somewhere in the world.
+
+*Let that sink in*
